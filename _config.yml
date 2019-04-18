@@ -1,6 +1,8 @@
 title: Really Simple Test # Title of site.
 timezone: America/Los_Angeles
 
+remote_theme: jusx/really-simple
+
 sass:
    sass_dir: _sass
    style: :compressed
